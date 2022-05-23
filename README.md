@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hemanth-polugalla
-- 👀 I’m interested in python, Django, Web Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on creating innovative projects
+- 👀 I’m interested in python, Web Development
+- 🌱 I’m currently exploring Serverless, PyScript....
 - 📫 Reach me at discord ( hemanth#0458 )
 
 <!---
